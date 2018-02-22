@@ -1,0 +1,10 @@
+D:\vs_projects\Chat\Chat\bin\Debug\Chat.exe.config
+D:\vs_projects\Chat\Chat\bin\Debug\Chat.exe
+D:\vs_projects\Chat\Chat\bin\Debug\Chat.pdb
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.ChatClient.resources
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.exe
+D:\vs_projects\Chat\Chat\obj\Debug\Chat.pdb
